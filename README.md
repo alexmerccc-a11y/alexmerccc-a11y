@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alex 👋
+# Hi, I'm 吕纪新 👋
 
 ### Java Backend Developer | Video Super-Resolution Learner
 
