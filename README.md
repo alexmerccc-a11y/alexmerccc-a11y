@@ -18,7 +18,7 @@
 - 🔭 正在完善 SaaS 短链接系统与企业核心业务中台
 - 🌱 正在学习 Spring Cloud Alibaba、Redis、RocketMQ、MySQL 与分布式系统
 - 🎬 研究兴趣：Video Super-Resolution（VSR）
-- 📫 Email：你的邮箱地址
+- 📫 Email：alexhelen@qq.com
 
 ---
 
