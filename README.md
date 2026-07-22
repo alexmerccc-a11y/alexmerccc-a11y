@@ -5,7 +5,7 @@
 ### Java Backend Developer | Video Super-Resolution Learner
 
 一名专注于 Java 后端开发的计算机技术硕士研究生，  
-目前持续学习微服务、高并发、分布式系统与视频超分辨率技术。
+目前持续学习微服务、高并发、分布式系统与视频超分辨率、AI Agent开发
 
 </div>
 
@@ -15,9 +15,8 @@
 
 - 🎓 计算机技术硕士研究生，预计 2027 年毕业
 - 💼 Java 后端开发实习生
-- 🔭 正在完善 SaaS 短链接系统与企业核心业务中台
-- 🌱 正在学习 Spring Cloud Alibaba、Redis、RocketMQ、MySQL 与分布式系统
-- 🎬 研究兴趣：Video Super-Resolution（VSR）
+- 🌱 正在学习 Spring Cloud Alibaba、Redis、RocketMQ、MySQL 与分布式系统、SpringAI、Agent开发
+- 🎬 科研方向：Video Super-Resolution（VSR）
 - 📫 Email：alexhelen@qq.com
 
 ---
